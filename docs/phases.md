@@ -69,7 +69,7 @@
 
 **Goal:** GitHub repo under `hamza140202`, everything pushed.
 **Acceptance criteria:** repo created; docs + code + research + tests pushed; README renders; commit history meaningful.
-**Evidence:** appended after push below.
+**Evidence:** repo `hamza140202/agentgrab` created via API and pushed 2026-10-03 — 38 files, commit `6b566cf` ("feat: AgentGrab 1.0.0 …"), default branch `main`. Verified via GitHub API tree listing (code 21 files, docs 11, research 5, tests, skills, pot-server, packaging).
 
 ---
 
